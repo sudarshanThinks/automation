@@ -1,4 +1,4 @@
-package Lahuji;
+package jobito;
 
 import org.testng.annotations.Test;
 
